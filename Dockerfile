@@ -1,5 +1,5 @@
 # Use the Plus image, as PostgreSQL storage is a Plus feature
-FROM devlikeapro/waha:arm
+FROM devlikeapro/waha:latest
 
 ENV HOST=0.0.0.0
 ENV PORT=7860
